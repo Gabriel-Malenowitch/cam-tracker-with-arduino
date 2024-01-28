@@ -1,0 +1,6 @@
+{
+    "port": "COM1",
+    "board": "arduino:avr:unomini",
+    "programmer": "avrisp",
+    "sketch": "follow_with_webcam.ino"
+}
